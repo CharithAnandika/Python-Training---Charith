@@ -1,0 +1,23 @@
+{
+          "product": [
+                    {
+                              "id": "A1",
+                              "name": "keyboard",
+                              "price": 75.0,
+                              "available": true
+                    },
+                    {
+                              "id": "A2",
+                              "name": "mouse",
+                              "price": 25.0,
+                              "available": false
+                    },
+                    {
+                              "id": "A3",
+                              "name": "monitor",
+                              "price": 300.0,
+                              "available": true
+                    }
+          ],
+          "last_updated": "2025-06-25"
+}

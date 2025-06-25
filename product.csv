@@ -1,0 +1,4 @@
+id,product name,price,availability
+A1,keyboard,75.0,True
+A2,mouse,25.0,False
+A3,monitor,300.0,True
